@@ -1,0 +1,1 @@
+[ { "server": "31.171.153.178", "server_port": 989, "password": "f8f7aCzcPKbsF8p3", "method": "aes-256-cfb", "remarks": "@barcode_tm 🇦🇱 Tirana", "route": "all", "remote_dns": "dns.google", "ipv6": false, "metered": false, "proxy_apps": { "enabled": false }, "udpdns": false }
